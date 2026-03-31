@@ -145,23 +145,3 @@ You can test your own image:
 
 * GitHub: [https://github.com/salahdin10r](https://github.com/salahdin10r)
 
-````
-
----
-
-## 🧠 Extra (makes you look pro)
-
-After creating it:
-
-```bash
-touch README.md
-````
-
-Paste content → then:
-
-```bash
-git add README.md
-git commit -m "Add README"
-git push
-```
-
