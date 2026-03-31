@@ -165,14 +165,3 @@ git commit -m "Add README"
 git push
 ```
 
----
-
-## 🔥 Optional upgrade (I recommend)
-
-I can also:
-
-* add badges (Python version, status, etc.)
-* make it look like a **top-tier ML repo**
-* simplify your repo structure (right now it's a bit messy)
-
-Just say: *“make it cleaner”* 😄
